@@ -71,12 +71,15 @@ To run this project, you will need the following dependencies:
 
 #### keras
 
+#### bokeh
+
+#### seaborn
+
 ## Usage
 ### Data Preparation:
 
 Load the priceHistory dataset, which contains the historical Bitcoin closing prices.
 
-Preprocess the data by normalizing it using the MinMaxScaler from scikit-learn.
 
 ### LSTM Model Training:
 
